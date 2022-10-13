@@ -1,0 +1,58 @@
+.logo > img{
+height:50px;
+width:250px;
+}
+
+.navbar {
+    margin-inline-end: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    margin-inline-start: 3rem;
+    padding: 1rem;
+}
+
+.text > a { 
+    padding: 0 1rem;
+}
+.btns > img{
+    padding: 1rem;
+    margin-inline-start: 1rem;
+    height: 20px;
+    width: 20px;
+}
+.btns {
+    padding: 0 1rem;
+    margin-inline-start: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 75vh; 
+}
+.txt2{
+    padding: 2rem;
+    margin-inline-start: 3rem;  
+}
+.quotes{
+    display:flex ;
+    justify-content: auto;
+
+}
+.images >img{
+    margin-left: 152px;
+    height:500px;
+    width:350px;
+    align-items:right ;
+}
+.txt2 .headertext{
+    font-size: 46px;
+    font-weight: bold;
+
+}
+.page-1, .quotes{
+    background-color:darksalmon ;
+}
+

@@ -1,0 +1,9 @@
+
+@media screen and (max-width:800px )  {
+    .sj{display:flex;
+        justify-content: space-around;}
+        
+        #menubar{display:flex;
+        justify-content: flex-start;}
+        .logout{margin-left: unset;}
+}
